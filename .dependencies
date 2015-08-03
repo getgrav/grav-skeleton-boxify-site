@@ -1,0 +1,26 @@
+git:
+    problems:
+        url: https://github.com/getgrav/grav-plugin-problems
+        path: user/plugins/problems
+        branch: develop
+    error:
+        url: https://github.com/getgrav/grav-plugin-error
+        path: user/plugins/error
+        branch: develop  
+    boxify:
+        url: https://github.com/getgrav/grav-theme-boxify
+        path: user/themes/boxify
+        branch: develop
+links:
+    problems:
+        src: grav-plugin-problems
+        path: user/plugins/problems
+        scm: github
+    error:
+        src: grav-plugin-error
+        path: user/plugins/error
+        scm: github
+    boxify:
+        src: grav-theme-boxify
+        path: user/themes/boxify
+        scm: github
