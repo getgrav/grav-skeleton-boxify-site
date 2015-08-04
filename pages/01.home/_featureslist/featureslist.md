@@ -1,5 +1,6 @@
 ---
-title: Features
+title: Features List
+hidemenu: true
 featureslist:
   - title: "Responsive"
     icon: desktop
